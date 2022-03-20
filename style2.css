@@ -42,7 +42,7 @@ label {
 
 .btn button {
     width: 70px;
-    background-color: black;
+    background-color: #fff;
     color: white;
     padding: 5px;
     border-radius: 6px;
@@ -90,6 +90,14 @@ h2 {
     width: 50%;
     padding: 5px;
     text-transform: uppercase;
-
-
+    color: #fff;
+ }
+ p{
+     color: #fff;
+ }
+ h3{
+     color: #fff;
+ }
+ h1{
+     color: #fff;
  }
